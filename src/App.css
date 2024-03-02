@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.board {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.item {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.btn {
+  margin: 5px;
+}
+
+.modal {
+  padding: 15px;
+}
